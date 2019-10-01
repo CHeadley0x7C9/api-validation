@@ -3,5 +3,6 @@ default:
     default:
       contexts:
         - FeatureContext:
-            github_username: cieraheadley003@gmail.com
-            github_password: U!owa303
+        //add your Username and password
+            github_username: ************
+            github_password: *******
